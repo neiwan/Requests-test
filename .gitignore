@@ -1,0 +1,7 @@
+/venv
+/.idea
+src/__pycache__/
+
+token1.txt
+
+notes/
